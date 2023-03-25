@@ -1,0 +1,43 @@
+body {
+    background: url(https://tse2.mm.bing.net/th?id=OIP.icHUnJiFW2P0ygciaxM0EAHaFa&pid=Api&P=0);
+    background-size: cover;
+}
+
+table {
+    width: 50%;
+    text-align: center;
+    border: solid 1px;
+    border-color: aliceblue;
+    margin: auto;
+    border-collapse: collapse;
+    margin-top: 5%;
+}
+tr {
+    height: 55px;
+}
+
+td, th {
+    border: solid 1.5px;
+    border-color: aliceblue;
+    color: aliceblue;
+}
+thead {
+    background-color: black;
+    color: aliceblue;
+  
+}
+
+
+tfoot {
+    background-color: rgb(0, 15, 15);
+    color: aliceblue;
+    font-weight: bold;
+
+}
+caption {
+    margin-bottom: 4%;
+    color: aliceblue;
+    font-weight: bold;
+   
+    
+}

@@ -1,3 +1,3 @@
-##Tabla.Html
+## Tabla.Html
 
-Esta es la Clase Sobre Tablas 
+<p>Esta es la Clase Sobre Tablas </p>
